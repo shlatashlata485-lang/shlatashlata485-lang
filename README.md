@@ -10,11 +10,12 @@
 
 <img width="45%" align="right" alt="Data Analysis" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on advanced Data Dashboards and Web Design projects;
-- 🌱 I’m currently deep-diving into AI-driven Data Insights; 
-- 👯 I’m looking to collaborate on Open Source Data Projects 🤝;
-- 💬 Ask me about Data Cleaning, Visualization, or Web Layouts;
-- ⚡️ Fun-Fact: I'm a big fan of Al-Ahly and Liverpool! ⚽;
+📊 Data Analysis
+Turning raw data into strategic insights. Expert in data mining and cleaning using SQL and Python, and creating interactive, high-impact dashboards with Power BI.
+💻 Web Design
+Building modern, high-performance digital experiences. I focus on minimalist aesthetics and user-centric designs that balance beauty with functionality.
+🤖 AI Integration
+Leveraging AI tools to supercharge workflows. From automating complex data tasks to enhancing web development with intelligent, cutting-edge solutions.
 - 📫 How to reach me: mo2020.mahmoud1@gmail.com;
 
 **Languages and Tools:** <p>
