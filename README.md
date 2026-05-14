@@ -1,4 +1,4 @@
-## Hi, I'm Mohammed Shlata, a Data Analyst & Web Designer 🚀
+## Hi, I'm Mohammed Mahmoud Shlata, a Data Analyst & Web Designer 🚀
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-0a0b59325)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shlata_20)
