@@ -1,4 +1,4 @@
-## Hi, I'm Mohammed Mahmoud Shlata, a Data Analyst & Web Designer 🚀
+## Hi, I'm Mohammed Mahmoud Shlata, a Data Analyst  🚀
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mahmoud-0a0b59325)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shlata_20)
@@ -11,7 +11,7 @@
 <img width="45%" align="right" alt="Data Analysis" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 📊 Data Analysis
-Turning raw data into strategic insights. Expert in data mining and cleaning using SQL and Python, and creating interactive, high-impact dashboards with Power BI.
+Turning raw data into strategic insights. Expert in data mining and cleaning using SQL and Python, and Microsoft Excel ..creating interactive, high-impact dashboards with Power BI.
 💻 Web Design
 Building modern, high-performance digital experiences. I focus on minimalist aesthetics and user-centric designs that balance beauty with functionality.
 🤖 AI Integration
