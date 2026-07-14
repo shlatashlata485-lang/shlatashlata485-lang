@@ -12,8 +12,9 @@
 
 📊 Data Analysis
 Turning raw data into strategic insights. Expert in data mining and cleaning using SQL and Python, and Microsoft Excel ..creating interactive, high-impact dashboards with Power BI.
-💻 Web Design
-Building modern, high-performance digital experiences. I focus on minimalist aesthetics and user-centric designs that balance beauty with functionality.
+### 💻 Tech Stack
+* **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
+* **Databases:** IndexedDB, SQLite
 🤖 AI Integration
 Leveraging AI tools to supercharge workflows. From automating complex data tasks to enhancing web development with intelligent, cutting-edge solutions.
 - 📫 How to reach me: mo2020.mahmoud1@gmail.com;
